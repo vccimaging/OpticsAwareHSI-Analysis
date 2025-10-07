@@ -1,0 +1,12 @@
+einops==0.8.0
+h5py==3.12.1
+hdf5storage==0.1.19
+matplotlib==3.9.2
+numpy==1.26.0
+opencv-python==4.8.0.74
+pandas==2.2.3
+Pillow==10.4.0
+scipy==1.14.0
+scikit-image==0.25.2
+timm==1.0.15
+wandb

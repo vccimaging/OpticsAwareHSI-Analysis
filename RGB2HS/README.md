@@ -1,0 +1,1 @@
+Download the pretrained models from the [MST++ repository](https://github.com/caiyuanhao1998/MST-plus-plus/tree/master?tab=readme-ov-file#6-prediction) to the `model_zoo` folder.

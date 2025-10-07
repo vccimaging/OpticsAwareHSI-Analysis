@@ -1,0 +1,1 @@
+Download the PSFs in `.npz` format from [Google Drive](https://drive.google.com/drive/folders/1OoaBwsdL6M42SxYJFDw4X8y0N73k2Bdv?usp=sharing), and place them in this folder.
