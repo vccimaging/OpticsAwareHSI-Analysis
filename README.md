@@ -102,6 +102,10 @@ To ensure reproducibility, please use the provided train/valid lists.
 
 ### 1.3 KAUST
 
+#### [Update on Jan-20, 2026] 
+
+The raw data (Matlab mat files) of the KAUST dataset have been updated. Please check out [http://hdl.handle.net/10754/670368](http://hdl.handle.net/10754/670368).
+
 The original `KAUST` data are stored in Matlab `.mat` files. The `dataset_tools/prepare_KAUST.py` script can be used to do the data conversion by running
 
 ```bash
