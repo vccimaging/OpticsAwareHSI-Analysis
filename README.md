@@ -294,8 +294,18 @@ Our results systematically demonstrate that it is impossible to accurately recon
 The dataset limitations we point out in this work may also apply to other spectral reconstruction problems using the referenced datasets, such as CASSI, PSF engineering, and multispectral-hyperspectral fusion. In particular, the same metamerism issue has not yet been extensively evaluated in such domains either. Our findings underscore the broader importance of effective spectral encodings in such snapshot spectral imaging problems. The proposed metameric augmentation technique could inform future directions in optical design, network design, and, more importantly, their joint optimization to cope with metamers.
 
 ## Citations
-
-TODO
+```latex
+@article{fu2025limitations,
+  title={Limitations of Data-Driven Spectral Reconstruction -- An Optics-Aware Analysis},
+  author={Fu, Qiang and Souza, Matheus and Choi, Eunsue and Shin, Suhyun and Baek, Seung-Hwan and Heidrich, Wolfgang},
+  journal={IEEE Transactions on Computational Imaging},
+  year={2025},
+  volume={11},
+  number={},
+  pages={1505-1520},
+  publisher={IEEE}
+}
+```
 
 ## License
 Our code is licensed under MIT License. By downloading the software, you agree to the terms of this License. 
